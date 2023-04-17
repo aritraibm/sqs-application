@@ -1,0 +1,12 @@
+cloud:
+  aws:
+    region:
+      static: us-east-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIAXBAA5I35IJPJUBFZ
+      secret-key: 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
+    end-point:
+      uri: https://sqs.us-east-1.amazonaws.com/483185739514/data-exchange
